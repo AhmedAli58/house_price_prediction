@@ -127,9 +127,9 @@ Open it in your browser.
 
 ## Contact
 
-**Ahmed Ali**
+**Ahmed Ali**+
 Data Analyst
-
 GitHub: https://github.com/AhmedAli58
 LinkedIn: https://www.linkedin.com/in/ahmedali79x/
+
 
