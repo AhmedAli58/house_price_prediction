@@ -135,19 +135,13 @@ Open it in your browser.
 * Saving the trained model and scaler
 * Building a Streamlit interface for predictions
 
-## Future Improvements
-
-* Add more features (location, zip_code, previous sale date)
-* Use regularized regression (Ridge or Lasso)
-* Add interactive visualizations
-* Deploy online (Streamlit Cloud)
-
 ## Contact
 
 **Ahmed Ali**  
 Data Analyst  
 GitHub: https://github.com/AhmedAli58  
 LinkedIn: https://www.linkedin.com/in/ahmedali79x/
+
 
 
 
