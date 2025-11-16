@@ -54,28 +54,45 @@ Full dataset source:
 
 ## How to Run This Project Locally
 
-### 1. Clone the repository
+1. Clone the repository
 
+```
 git clone https://github.com/AhmedAli58/house_price_prediction.git
 cd house_price_prediction
+```
 
-### 2. Create a virtual environment (optional but recommended)
+2. Create a virtual environment (optional but recommended)
 
+```
 python3 -m venv venv
-source venv/bin/activate   # Mac / Linux
-venv\Scripts\activate      # Windows
 
-### 3. Install dependencies
+# Mac / Linux
+source venv/bin/activate
 
+# Windows
+venv\Scripts\activate
+```
+
+3. Install dependencies
+
+```
 pip install -r requirements.txt
+```
 
-### 4. Run the Streamlit app
+4. Run the Streamlit app
 
+```
 streamlit run app.py
+```
 
-You will see a URL like this:
-`http://localhost:8501`
+You will see a URL like:
+
+```
+http://localhost:8501
+```
+
 Open it in your browser.
+
 
 ## How the Model Works
 
@@ -131,6 +148,7 @@ Open it in your browser.
 Data Analyst  
 GitHub: https://github.com/AhmedAli58  
 LinkedIn: https://www.linkedin.com/in/ahmedali79x/
+
 
 
 
